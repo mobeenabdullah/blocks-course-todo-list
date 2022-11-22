@@ -1,1 +1,1 @@
-# blocks-course-todo-list
+# Blocks Course Todo List
